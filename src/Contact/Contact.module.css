@@ -1,0 +1,18 @@
+.line{
+    width: 100px;
+    height: 3px;
+   background-color: #000;
+}
+.icon{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+.labelName{
+    /* position: relative;
+    top: 50px; */
+    display: non;
+}
+.l1{
+    display: block;
+}
